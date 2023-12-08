@@ -32,9 +32,7 @@ GitHub Explorer is a web application that allows users to search for GitHub prof
 
 Contributions are welcome! Please fork the repository and create a pull request with your proposed features, enhancements, or bug fixes.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
