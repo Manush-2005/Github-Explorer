@@ -1,5 +1,6 @@
 
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Cat" width="100" height="100">  # GitHub Explorer
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Cat" width="100" height="100">  
+# GitHub Explorer
 
 GitHub Explorer is a web application that allows users to search for GitHub profiles, view user contributions, explore repositories, and bookmark their favorite users for quick access.
 
